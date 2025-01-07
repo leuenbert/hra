@@ -1,6 +1,6 @@
 console.log("test")
 
-const projectImages = document.querySelectorAll(".project-image");
+const projectImages = document.querySelectorAll(".overview-project-image");
 
 let container = document.getElementById("container");
 
